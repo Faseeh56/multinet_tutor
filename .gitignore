@@ -1,0 +1,11 @@
+# XAMPP / server logs
+*.log
+*.lock
+
+# Python cache (we'll add later)
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
